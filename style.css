@@ -1,0 +1,127 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    border: 5px
+}
+.line{
+    border-left: 3px solid;
+  border-left-color:orchid;
+  
+}
+
+.section1{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    
+}
+
+.personImg {
+    margin: -170px;
+}
+
+.half-width img{
+    width: 100%;
+    
+    padding-bottom: 20px;
+}
+/* .section2 { */
+    padding-top: -20px;
+    padding-bottom: -20px;
+}
+.section3 {
+    padding-left: 50px;
+    padding-right: 50px;
+    display:flex;
+}
+
+.link-button{
+    text-decoration: none;
+    background-color: coral;
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#mission-in-22{
+    text-align: center;
+    margin: auto;
+}
+.coral-color{
+    color:coral
+}
+.smaller {
+    width: 50%;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.section3{
+    padding-left:  50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+     margin-top: -60px;
+}
+.bg1{
+background-color:rgba(32, 178, 171, 0.274);
+border-radius: 25px;
+}
+.bg2{
+    background-color:rgba(255, 160, 122, 0.397);
+    border-radius: 25px;
+}
+.bg3{
+    background-color: rgba(176, 196, 222, 0.527);
+    border-radius: 25px;
+}
+.margin{
+    margin: 10px;px;
+}
+.bg-image1{
+    background-image:url(mission-2022-main/images/backgrounds/dream-bg.png);
+    background-repeat: no-repeat; 
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: -60px;
+}
+.develop{
+    width: 30%;
+    height: auto;
+    border-radius: 20px; 
+    display: flex;
+}
+.lastperson{
+    width: 70%;
+    height: auto;
+    border-radius: 20px; 
+    display: flex;
+}
+.global{
+    padding-left:  50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.al{
+    text-align:left;
+}
+.footer{
+    text-align: center;
+    background-color:black;
+}
+.footer-p{
+    margin-top:-20px;
+    color: white;
+    
+}
+.footerfont{
+    font-family: 'Lobster', cursive
+}
+.m{
+    color: white;
+}
+.twenty{ 
+    color:red
+}
